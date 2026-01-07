@@ -1,0 +1,27 @@
+Critical Architecture: The "Safety Wrapper" (Repeated)
+This is the most important part of your build. In mental health AI, a "good" answer that is unsafe is a failure. You must wrap your RAG pipeline in these three protective layers.
+
+Layer 1: The Crisis Interceptor (Pre-Retrieval)
+Before your bot even "thinks" or searches the database, the user's input must pass through a keyword/intent filter.
+
+Logic: IF input contains ["suicide", "kill myself", "die", "end it all"] THEN abort RAG pipeline AND return "Hardcoded Crisis Message".
+
+Why: RAG takes time (2-5 seconds). Crisis responses must be instant and deterministic. You cannot risk the LLM hallucinating a "creative" way to handle suicide.
+
+Layer 2: Source Attribution (During Generation)
+You must force the LLM to cite where it got the information. This builds trust and allows users to verify facts.
+
+System Prompt Instruction:
+
+"You are a helpful mental health assistant. You must ONLY answer using the provided context. Every time you give advice, cite the document title. If the context does not contain the answer, say 'I don't know' and recommend a professional."
+
+Example Output:
+
+"According to the NIMH Generalized Anxiety Disorder Fact Sheet, symptoms often include restlessness and fatigue..."
+
+Layer 3: The Disclaimer Injection (Post-Processing)
+Never let a session start or end without reminding the user of the bot's nature.
+
+Implementation: Prepend or append this string to the visible chat interface, not just the hidden system prompt.
+
+Text: "I am an AI, not a doctor. This is information, not medical advice. In an emergency, call [Emergency Number]."

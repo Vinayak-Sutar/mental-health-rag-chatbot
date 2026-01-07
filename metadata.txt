@@ -1,0 +1,97 @@
+# Dataset Documentation
+
+This document describes the datasets used in the Mental Health RAG Chatbot for retrieval-augmented generation.
+
+---
+
+## 📚 Therapy Books
+
+### 1. Cognitive Behavior Therapy: Basics and Beyond
+- **Author**: Judith S. Beck, PhD
+- **Purpose**: Core CBT theory and therapeutic conversation structure
+- **Target Use**: Guides chatbot's cognitive restructuring approach
+- **Key Topics**: Automatic thoughts, cognitive distortions, core beliefs, case conceptualization
+- **Chunking**: By sub-chapter (1500 tokens, 200 overlap)
+
+### 2. Mind Over Mood
+- **Authors**: Dennis Greenberger, PhD & Christine A. Padesky, PhD
+- **Purpose**: Practical patient-facing exercises and worksheets
+- **Target Use**: Providing actionable techniques to users
+- **Key Topics**: Thought records, activity scheduling, mood tracking, anxiety/depression worksheets
+- **Chunking**: By exercise/worksheet (800 tokens, 100 overlap)
+
+### 3. DBT Skills Training Manual
+- **Author**: Marsha M. Linehan, PhD
+- **Purpose**: Crisis management and emotion regulation protocols
+- **Target Use**: Handling high-emotion situations and distress
+- **Key Topics**: Distress tolerance, emotion regulation, interpersonal effectiveness, TIPP skills, mindfulness
+- **Chunking**: By skill acronym (500 tokens, 50 overlap)
+
+### 4. ACT Made Simple
+- **Author**: Russ Harris, MD
+- **Purpose**: Acceptance and Commitment Therapy concepts
+- **Target Use**: Users who feel "stuck" or find CBT too rigid
+- **Key Topics**: Psychological flexibility, defusion, acceptance, values clarification, the Hexaflex model
+- **Chunking**: By metaphor/concept (1000 tokens, 150 overlap)
+
+---
+
+## 🏛️ NIMH Articles
+
+- **Source**: National Institute of Mental Health (nimh.nih.gov)
+- **Count**: 173 articles
+- **Type**: Clinical fact sheets and patient brochures
+- **Purpose**: Authoritative factual information for medical questions
+- **Key Fields**:
+  - `Topic`: Broad category (e.g., "Anxiety Disorders")
+  - `Title`: Article name
+  - `Source_URL`: Link for citation
+  - `Content`: Full article text
+- **Usage**: Primary source for symptom definitions, treatment options, and clinical facts
+
+---
+
+## 💬 Counseling Conversations
+
+- **Source**: Hugging Face datasets
+- **Count**: ~3,500 dialogue pairs
+- **Type**: User-Therapist conversation exchanges
+- **Purpose**: Few-shot learning for response style and tone
+- **Key Fields**:
+  - `Context`: User's statement or question
+  - `Response`: Counselor's empathetic reply
+- **Usage**: Teaching the model therapeutic communication patterns
+
+---
+
+## 🔄 Data Processing Pipeline
+
+1. **PDF Extraction**: PyMuPDF extracts text from therapy books
+2. **Chunking**: LangChain RecursiveCharacterTextSplitter with source-specific parameters
+3. **Embedding**: HuggingFace Sentence Transformers (`all-MiniLM-L6-v2`)
+4. **Storage**: ChromaDB vector databases (6 separate collections)
+5. **Retrieval**: Semantic similarity search with intent-based routing
+
+---
+
+## ⚠️ Important Notes
+
+- All therapy books are copyrighted materials used for educational/research purposes
+- NIMH content is public domain (U.S. government)
+- Counseling conversations are used for style transfer, not as medical advice
+- The system includes crisis detection that bypasses RAG for immediate support
+
+---
+
+## 📊 Vector Database Statistics
+
+| Collection | Documents | Purpose |
+|------------|-----------|---------|
+| cbt_bible | ~650 | Cognitive restructuring |
+| mind_over_mood | ~325 | Practical exercises |
+| dbt_manual | ~1,780 | Crisis/emotion skills |
+| act_simple | ~725 | Acceptance techniques |
+| nimh_articles | 173 | Clinical facts |
+| counseling | ~3,500 | Response style examples |
+
+**Total**: ~7,150 embedded documents

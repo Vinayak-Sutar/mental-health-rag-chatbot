@@ -1,0 +1,15 @@
+# Mental Health RAG Chatbot Dependencies
+
+# Core
+google-generativeai>=0.3.0
+chromadb>=0.4.0
+python-dotenv>=1.0.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Web Interface
+gradio>=4.0.0

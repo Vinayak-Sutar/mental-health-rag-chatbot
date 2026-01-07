@@ -1,0 +1,5305 @@
+[
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-5_Action_Steps_to_Help_Someone_Having_Thoughts_of_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "5 Action Steps to Help Someone Having Thoughts of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 2201
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-ADHD_in_Adults__4_Things_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "ADHD in Adults: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "ADHD",
+        "Stress"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 7820
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Attention_Deficit_Hyperactivity_Disorder__What_You.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Attention-Deficit/Hyperactivity Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Stress",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 17661
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Autism_Spectrum_Disorder.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Autism Spectrum Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Autism",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13004
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Bipolar_Disorder.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Bipolar Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 15338
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Bipolar_Disorder_in_Children_and_Teens.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Bipolar Disorder in Children and Teens",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12321
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Bipolar_Disorder_in_Teens_and_Young_Adults__Know_t.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Bipolar Disorder in Teens and Young Adults: Know the Signs",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Bipolar Disorder",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support"
+      ]
+    },
+    "file_size_bytes": 1749
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Borderline_Personality_Disorder.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Borderline Personality Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12579
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Children_and_Mental_Health__Is_This_Just_a_Stage_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Children and Mental Health: Is This Just a Stage?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12638
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Clinical_Research_Trials_and_You__Questions_and_An.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Clinical Research Trials and You: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/clinical-research-trials-and-you-questions-and-answers",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 9530
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Depression.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Social Anxiety",
+        "Perinatal Depression",
+        "Panic Disorder",
+        "Phobias",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 16489
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Depression_in_Women__4_Things_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Depression in Women: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression-in-women",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 4491
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Disruptive_Mood_Dysregulation_Disorder__The_Basics.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "source_url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "ADHD",
+        "DMDD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 9998
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Eating_Disorders__What_You_Need_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Eating Disorders: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 8998
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Frequently_Asked_Questions_About_Suicide.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Frequently Asked Questions About Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10256
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Generalized_Anxiety_Disorder__What_You_Need_to_Kno.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Generalized Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12047
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Get_Excited_About_Mental_Health_Research_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Get Excited About Mental Health Research!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-mental-health-research",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Research"
+      ]
+    },
+    "file_size_bytes": 658
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Get_Excited_About_the_Brain_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Get Excited About the Brain!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-the-brain",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Genetics",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 548
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Getting_Mental_Health_Support_Virtually.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Getting Mental Health Support Virtually",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-is-telemental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Older Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 3990
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Helping_Children_and_Adolescents_Cope_With_Traumat.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Helping Children and Adolescents Cope With Traumatic Events",
+    "source_url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4928
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4215
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-I_m_So_Stressed_Out__Infographic.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "I’m So Stressed Out! Infographic",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 1716
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Let_s_Talk_About_Eating_Disorders.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Let’s Talk About Eating Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 1895
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Looking_at_My_Genes__What_Can_They_Tell_Me_About_M.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Looking at My Genes: What Can They Tell Me About My Mental Health?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "OCD"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 9519
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-My_Mental_Health__Do_I_Need_Help_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "My Mental Health: Do I Need Help?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 2125
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-National_Institute_of_Mental_Health__Celebrating_7.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "National Institute of Mental Health: Celebrating 75 Years",
+    "source_url": "https://www.nimh.nih.gov/health/publications/national-institute-of-mental-health-celebrating-75-years",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 895
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Obsessive_Compulsive_Disorder__When_Unwanted_Thoug.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over",
+    "source_url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13544
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-PANS_and_PANDAS__Questions_and_Answers.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "PANS and PANDAS: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/pandas",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "Depression",
+        "OCD",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10331
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Panic_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Panic Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 11644
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Perinatal_Depression.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Perinatal Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/perinatal-depression",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 12910
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Phobias_and_Phobia_Related_Disorders.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Phobias and Phobia-Related Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Social Anxiety",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5753
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Post_Traumatic_Stress_Disorder.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Post-Traumatic Stress Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12458
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Schizophrenia.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Schizophrenia",
+    "source_url": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12057
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Seasonal_Affective_Disorder.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Seasonal Affective Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 14184
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Seasonal_Affective_Disorder__SAD___More_Than_the_W.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Seasonal Affective Disorder (SAD): More Than the Winter Blues",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 2057
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Social_Anxiety_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Social Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Social Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13365
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Stand_Up_to_Stress_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Stand Up to Stress!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress",
+    "tags": {
+      "disorders": [
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 528
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Teen_Depression__More_Than_Just_Moodiness.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Teen Depression: More Than Just Moodiness",
+    "source_url": "https://www.nimh.nih.gov/health/publications/teen-depression",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 2233
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-The_Teen_Brain__7_Things_to_Know.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "The Teen Brain: 7 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Brain Science",
+        "Research",
+        "Crisis Support",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 3961
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Tips_for_Talking_With_a_Health_Care_Provider_About.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Tips for Talking With a Health Care Provider About Your Mental Health",
+    "source_url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 5266
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Understanding_Psychosis.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Understanding Psychosis",
+    "source_url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10950
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Understanding_the_Link_Between_Chronic_Disease_and.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Understanding the Link Between Chronic Disease and Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5588
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-Warning_Signs_of_Suicide.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "Warning Signs of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1690
+  },
+  {
+    "filename": "Brochures_and_Fact_Sheets_in_E-What_Are_Common_Types_of_Eating_Disorders_.txt",
+    "topic": "Brochures and Fact Sheets in English",
+    "title": "What Are Common Types of Eating Disorders?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1686
+  },
+  {
+    "filename": "Disruptive_Mood_Dysregulation_-Children_and_Mental_Health__Is_This_Just_a_Stage_.txt",
+    "topic": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "title": "Children and Mental Health: Is This Just a Stage?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12652
+  },
+  {
+    "filename": "Disruptive_Mood_Dysregulation_-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4229
+  },
+  {
+    "filename": "Disruptive_Mood_Dysregulation_-Tips_for_Talking_With_a_Health_Care_Provider_About.txt",
+    "topic": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "title": "Tips for Talking With a Health Care Provider About Your Mental Health",
+    "source_url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "DMDD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 5280
+  },
+  {
+    "filename": "Panfletos_y_hojas_de_datos-Brochures_and_Fact_Sheets_in_English.txt",
+    "topic": "Panfletos y hojas de datos",
+    "title": "Brochures and Fact Sheets in English",
+    "source_url": "https://www.nimh.nih.gov/health/publications/brochures-and-fact-sheets-in-english",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention",
+        "OCD",
+        "Social Anxiety",
+        "Perinatal Depression",
+        "Panic Disorder",
+        "Phobias",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 6482
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-5_Action_Steps_to_Help_Someone_Having_Thoughts_of_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "5 Action Steps to Help Someone Having Thoughts of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 2236
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-ADHD_in_Adults__4_Things_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "ADHD in Adults: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "ADHD",
+        "Stress"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 7855
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Attention_Deficit_Hyperactivity_Disorder__What_You.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Attention-Deficit/Hyperactivity Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Stress",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 17696
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Autism_Spectrum_Disorder.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Autism Spectrum Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Autism",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13039
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Bipolar_Disorder.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Bipolar Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 15373
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Bipolar_Disorder_in_Children_and_Teens.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Bipolar Disorder in Children and Teens",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12356
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Bipolar_Disorder_in_Teens_and_Young_Adults__Know_t.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Bipolar Disorder in Teens and Young Adults: Know the Signs",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Bipolar Disorder",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support"
+      ]
+    },
+    "file_size_bytes": 1784
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Borderline_Personality_Disorder.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Borderline Personality Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12614
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Children_and_Mental_Health__Is_This_Just_a_Stage_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Children and Mental Health: Is This Just a Stage?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12673
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Clinical_Research_Trials_and_You__Questions_and_An.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Clinical Research Trials and You: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/clinical-research-trials-and-you-questions-and-answers",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 9565
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Depression.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Social Anxiety",
+        "Perinatal Depression",
+        "Panic Disorder",
+        "Phobias",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 16524
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Depression_in_Women__4_Things_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Depression in Women: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression-in-women",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 4526
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Disruptive_Mood_Dysregulation_Disorder__The_Basics.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "source_url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "ADHD",
+        "DMDD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10033
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Eating_Disorders__What_You_Need_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Eating Disorders: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 9033
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Frequently_Asked_Questions_About_Suicide.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Frequently Asked Questions About Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10291
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Generalized_Anxiety_Disorder__What_You_Need_to_Kno.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Generalized Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12082
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Get_Excited_About_Mental_Health_Research_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Get Excited About Mental Health Research!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-mental-health-research",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Research"
+      ]
+    },
+    "file_size_bytes": 693
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Get_Excited_About_the_Brain_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Get Excited About the Brain!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-the-brain",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Genetics",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 583
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Getting_Mental_Health_Support_Virtually.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Getting Mental Health Support Virtually",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-is-telemental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Older Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 4025
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Helping_Children_and_Adolescents_Cope_With_Traumat.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Helping Children and Adolescents Cope With Traumatic Events",
+    "source_url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4963
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4250
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-I_m_So_Stressed_Out__Infographic.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "I’m So Stressed Out! Infographic",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 1751
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-La_depresión_en_los_adolescentes__Algo_más_que_mal.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "La depresión en los adolescentes: Algo más que mal genio",
+    "source_url": "https://www.nimh.nih.gov/health/publications/la-depresion-en-los-adolescentes-algo-mas-que-mal-genio",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 2769
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Let_s_Talk_About_Eating_Disorders.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Let’s Talk About Eating Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 1930
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Looking_at_My_Genes__What_Can_They_Tell_Me_About_M.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Looking at My Genes: What Can They Tell Me About My Mental Health?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "OCD"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 9554
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-My_Mental_Health__Do_I_Need_Help_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "My Mental Health: Do I Need Help?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 2160
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Obsessive_Compulsive_Disorder__When_Unwanted_Thoug.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over",
+    "source_url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13579
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-PANS_and_PANDAS__Questions_and_Answers.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "PANS and PANDAS: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/pandas",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "Depression",
+        "OCD",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10366
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Panic_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Panic Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 11679
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Perinatal_Depression.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Perinatal Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/perinatal-depression",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 12945
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Post_Traumatic_Stress_Disorder.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Post-Traumatic Stress Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12493
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Schizophrenia.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Schizophrenia",
+    "source_url": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12092
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Seasonal_Affective_Disorder.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Seasonal Affective Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 14219
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Seasonal_Affective_Disorder__SAD___More_Than_the_W.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Seasonal Affective Disorder (SAD): More Than the Winter Blues",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 2092
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Social_Anxiety_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Social Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Social Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13400
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Stand_Up_to_Stress_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Stand Up to Stress!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress",
+    "tags": {
+      "disorders": [
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 563
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Teen_Depression__More_Than_Just_Moodiness.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Teen Depression: More Than Just Moodiness",
+    "source_url": "https://www.nimh.nih.gov/health/publications/teen-depression",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 2268
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-The_Teen_Brain__7_Things_to_Know.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "The Teen Brain: 7 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Brain Science",
+        "Research",
+        "Crisis Support",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 3996
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Tips_for_Talking_With_a_Health_Care_Provider_About.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Tips for Talking With a Health Care Provider About Your Mental Health",
+    "source_url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 5301
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Understanding_Psychosis.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Understanding Psychosis",
+    "source_url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10985
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Understanding_the_Link_Between_Chronic_Disease_and.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Understanding the Link Between Chronic Disease and Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5623
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-Warning_Signs_of_Suicide.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "Warning Signs of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1725
+  },
+  {
+    "filename": "Publicaciones_acerca_trastorno-What_Are_Common_Types_of_Eating_Disorders_.txt",
+    "topic": "Publicaciones acerca trastornos de la salud mental y temas relacionados",
+    "title": "What Are Common Types of Eating Disorders?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1721
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-Generalized_Anxiety_Disorder__What_You_Need_to_Kno.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "Generalized Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12047
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4215
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-I_m_So_Stressed_Out__Infographic.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "I’m So Stressed Out! Infographic",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 1716
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-Panic_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "Panic Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 11644
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-Phobias_and_Phobia_Related_Disorders.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "Phobias and Phobia-Related Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Social Anxiety",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5753
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-Social_Anxiety_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "Social Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Social Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13365
+  },
+  {
+    "filename": "Publications_about_Anxiety_Dis-Stand_Up_to_Stress_.txt",
+    "topic": "Publications about Anxiety Disorders",
+    "title": "Stand Up to Stress!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 528
+  },
+  {
+    "filename": "Publications_about_Attention_D-ADHD_in_Adults__4_Things_to_Know.txt",
+    "topic": "Publications about Attention-Deficit/Hyperactivity Disorder (ADHD)",
+    "title": "ADHD in Adults: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "ADHD",
+        "Stress"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 7850
+  },
+  {
+    "filename": "Publications_about_Attention_D-Attention_Deficit_Hyperactivity_Disorder__What_You.txt",
+    "topic": "Publications about Attention-Deficit/Hyperactivity Disorder (ADHD)",
+    "title": "Attention-Deficit/Hyperactivity Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Stress",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 17691
+  },
+  {
+    "filename": "Publications_about_Autism_Spec-Autism_Spectrum_Disorder.txt",
+    "topic": "Publications about Autism Spectrum Disorder (ASD)",
+    "title": "Autism Spectrum Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Autism",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13017
+  },
+  {
+    "filename": "Publications_about_Bipolar_Dis-Bipolar_Disorder.txt",
+    "topic": "Publications about Bipolar Disorder",
+    "title": "Bipolar Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 15337
+  },
+  {
+    "filename": "Publications_about_Bipolar_Dis-Bipolar_Disorder_in_Children_and_Teens.txt",
+    "topic": "Publications about Bipolar Disorder",
+    "title": "Bipolar Disorder in Children and Teens",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12320
+  },
+  {
+    "filename": "Publications_about_Bipolar_Dis-Bipolar_Disorder_in_Teens_and_Young_Adults__Know_t.txt",
+    "topic": "Publications about Bipolar Disorder",
+    "title": "Bipolar Disorder in Teens and Young Adults: Know the Signs",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Bipolar Disorder",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support"
+      ]
+    },
+    "file_size_bytes": 1748
+  },
+  {
+    "filename": "Publications_about_Borderline_-Borderline_Personality_Disorder.txt",
+    "topic": "Publications about Borderline Personality Disorder",
+    "title": "Borderline Personality Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12593
+  },
+  {
+    "filename": "Publications_about_Brain_Anato-Get_Excited_About_the_Brain_.txt",
+    "topic": "Publications about Brain Anatomy and Physiology",
+    "title": "Get Excited About the Brain!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-the-brain",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Genetics",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 559
+  },
+  {
+    "filename": "Publications_about_Brain_Anato-The_Teen_Brain__7_Things_to_Know.txt",
+    "topic": "Publications about Brain Anatomy and Physiology",
+    "title": "The Teen Brain: 7 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Brain Science",
+        "Research",
+        "Crisis Support",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 3972
+  },
+  {
+    "filename": "Publications_about_Children_an-Attention_Deficit_Hyperactivity_Disorder__What_You.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Attention-Deficit/Hyperactivity Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Stress",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 17668
+  },
+  {
+    "filename": "Publications_about_Children_an-Autism_Spectrum_Disorder.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Autism Spectrum Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "ADHD",
+        "Autism",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13011
+  },
+  {
+    "filename": "Publications_about_Children_an-Bipolar_Disorder_in_Children_and_Teens.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Bipolar Disorder in Children and Teens",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "DMDD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12328
+  },
+  {
+    "filename": "Publications_about_Children_an-Bipolar_Disorder_in_Teens_and_Young_Adults__Know_t.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Bipolar Disorder in Teens and Young Adults: Know the Signs",
+    "source_url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Bipolar Disorder",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support"
+      ]
+    },
+    "file_size_bytes": 1756
+  },
+  {
+    "filename": "Publications_about_Children_an-Children_and_Mental_Health__Is_This_Just_a_Stage_.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Children and Mental Health: Is This Just a Stage?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12645
+  },
+  {
+    "filename": "Publications_about_Children_an-Disruptive_Mood_Dysregulation_Disorder__The_Basics.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Disruptive Mood Dysregulation Disorder: The Basics",
+    "source_url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "ADHD",
+        "DMDD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10005
+  },
+  {
+    "filename": "Publications_about_Children_an-Get_Excited_About_Mental_Health_Research_.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Get Excited About Mental Health Research!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-mental-health-research",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Research"
+      ]
+    },
+    "file_size_bytes": 665
+  },
+  {
+    "filename": "Publications_about_Children_an-Get_Excited_About_the_Brain_.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Get Excited About the Brain!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/get-excited-about-the-brain",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Genetics",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 555
+  },
+  {
+    "filename": "Publications_about_Children_an-Helping_Children_and_Adolescents_Cope_With_Traumat.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Helping Children and Adolescents Cope With Traumatic Events",
+    "source_url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4935
+  },
+  {
+    "filename": "Publications_about_Children_an-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4222
+  },
+  {
+    "filename": "Publications_about_Children_an-I_m_So_Stressed_Out__Infographic.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "I’m So Stressed Out! Infographic",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 1723
+  },
+  {
+    "filename": "Publications_about_Children_an-Let_s_Talk_About_Eating_Disorders.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Let’s Talk About Eating Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 1902
+  },
+  {
+    "filename": "Publications_about_Children_an-PANS_and_PANDAS__Questions_and_Answers.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "PANS and PANDAS: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/pandas",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "Depression",
+        "OCD",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10338
+  },
+  {
+    "filename": "Publications_about_Children_an-Stand_Up_to_Stress_.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Stand Up to Stress!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress",
+    "tags": {
+      "disorders": [
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 535
+  },
+  {
+    "filename": "Publications_about_Children_an-Teen_Depression__More_Than_Just_Moodiness.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Teen Depression: More Than Just Moodiness",
+    "source_url": "https://www.nimh.nih.gov/health/publications/teen-depression",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 2240
+  },
+  {
+    "filename": "Publications_about_Children_an-The_Teen_Brain__7_Things_to_Know.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "The Teen Brain: 7 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Brain Science",
+        "Research",
+        "Crisis Support",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 3968
+  },
+  {
+    "filename": "Publications_about_Children_an-Understanding_Psychosis.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "Understanding Psychosis",
+    "source_url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10957
+  },
+  {
+    "filename": "Publications_about_Children_an-What_Are_Common_Types_of_Eating_Disorders_.txt",
+    "topic": "Publications about Children and Adolescents",
+    "title": "What Are Common Types of Eating Disorders?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1693
+  },
+  {
+    "filename": "Publications_about_Clinical_Re-Clinical_Research_Trials_and_You__Questions_and_An.txt",
+    "topic": "Publications about Clinical Research and Trials",
+    "title": "Clinical Research Trials and You: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/clinical-research-trials-and-you-questions-and-answers",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 9541
+  },
+  {
+    "filename": "Publications_about_Depression-Depression.txt",
+    "topic": "Publications about Depression",
+    "title": "Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Social Anxiety",
+        "Perinatal Depression",
+        "Panic Disorder",
+        "Phobias",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 16482
+  },
+  {
+    "filename": "Publications_about_Depression-Depression_in_Women__4_Things_to_Know.txt",
+    "topic": "Publications about Depression",
+    "title": "Depression in Women: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression-in-women",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 4484
+  },
+  {
+    "filename": "Publications_about_Depression-Perinatal_Depression.txt",
+    "topic": "Publications about Depression",
+    "title": "Perinatal Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/perinatal-depression",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 12903
+  },
+  {
+    "filename": "Publications_about_Depression-Seasonal_Affective_Disorder.txt",
+    "topic": "Publications about Depression",
+    "title": "Seasonal Affective Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 14177
+  },
+  {
+    "filename": "Publications_about_Depression-Seasonal_Affective_Disorder__SAD___More_Than_the_W.txt",
+    "topic": "Publications about Depression",
+    "title": "Seasonal Affective Disorder (SAD): More Than the Winter Blues",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 2050
+  },
+  {
+    "filename": "Publications_about_Depression-Teen_Depression__More_Than_Just_Moodiness.txt",
+    "topic": "Publications about Depression",
+    "title": "Teen Depression: More Than Just Moodiness",
+    "source_url": "https://www.nimh.nih.gov/health/publications/teen-depression",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Brain Science"
+      ]
+    },
+    "file_size_bytes": 2226
+  },
+  {
+    "filename": "Publications_about_Depression-Understanding_the_Link_Between_Chronic_Disease_and.txt",
+    "topic": "Publications about Depression",
+    "title": "Understanding the Link Between Chronic Disease and Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5581
+  },
+  {
+    "filename": "Publications_about_Eating_Diso-Eating_Disorders__What_You_Need_to_Know.txt",
+    "topic": "Publications about Eating Disorders",
+    "title": "Eating Disorders: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 8997
+  },
+  {
+    "filename": "Publications_about_Eating_Diso-Let_s_Talk_About_Eating_Disorders.txt",
+    "topic": "Publications about Eating Disorders",
+    "title": "Let’s Talk About Eating Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 1894
+  },
+  {
+    "filename": "Publications_about_Eating_Diso-What_Are_Common_Types_of_Eating_Disorders_.txt",
+    "topic": "Publications about Eating Disorders",
+    "title": "What Are Common Types of Eating Disorders?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1685
+  },
+  {
+    "filename": "Publications_about_Generalized-Generalized_Anxiety_Disorder__What_You_Need_to_Kno.txt",
+    "topic": "Publications about Generalized Anxiety Disorder",
+    "title": "Generalized Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12058
+  },
+  {
+    "filename": "Publications_about_Genetics-Looking_at_My_Genes__What_Can_They_Tell_Me_About_M.txt",
+    "topic": "Publications about Genetics",
+    "title": "Looking at My Genes: What Can They Tell Me About My Mental Health?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Autism",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "OCD"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 9510
+  },
+  {
+    "filename": "Publications_about_Men_s_Menta-Depression.txt",
+    "topic": "Publications about Men’s Mental Health",
+    "title": "Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Social Anxiety",
+        "Perinatal Depression",
+        "Panic Disorder",
+        "Phobias",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 16493
+  },
+  {
+    "filename": "Publications_about_Men_s_Menta-Frequently_Asked_Questions_About_Suicide.txt",
+    "topic": "Publications about Men’s Mental Health",
+    "title": "Frequently Asked Questions About Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10260
+  },
+  {
+    "filename": "Publications_about_Men_s_Menta-Warning_Signs_of_Suicide.txt",
+    "topic": "Publications about Men’s Mental Health",
+    "title": "Warning Signs of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1694
+  },
+  {
+    "filename": "Publications_about_NIMH-National_Institute_of_Mental_Health__Celebrating_7.txt",
+    "topic": "Publications about NIMH",
+    "title": "National Institute of Mental Health: Celebrating 75 Years",
+    "source_url": "https://www.nimh.nih.gov/health/publications/national-institute-of-mental-health-celebrating-75-years",
+    "tags": {
+      "disorders": [
+        "General Mental Health"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 882
+  },
+  {
+    "filename": "Publications_about_Obsessive_C-Obsessive_Compulsive_Disorder__When_Unwanted_Thoug.txt",
+    "topic": "Publications about Obsessive-Compulsive Disorder (OCD)",
+    "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over",
+    "source_url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13562
+  },
+  {
+    "filename": "Publications_about_Obsessive_C-PANS_and_PANDAS__Questions_and_Answers.txt",
+    "topic": "Publications about Obsessive-Compulsive Disorder (OCD)",
+    "title": "PANS and PANDAS: Questions and Answers",
+    "source_url": "https://www.nimh.nih.gov/health/publications/pandas",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Anxiety",
+        "ADHD",
+        "Depression",
+        "OCD",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10349
+  },
+  {
+    "filename": "Publications_about_Panic_Disor-Panic_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publications about Panic Disorder",
+    "title": "Panic Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 11641
+  },
+  {
+    "filename": "Publications_about_Post_Trauma-Helping_Children_and_Adolescents_Cope_With_Traumat.txt",
+    "topic": "Publications about Post-Traumatic Stress Disorder (PTSD)",
+    "title": "Helping Children and Adolescents Cope With Traumatic Events",
+    "source_url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4948
+  },
+  {
+    "filename": "Publications_about_Post_Trauma-Post_Traumatic_Stress_Disorder.txt",
+    "topic": "Publications about Post-Traumatic Stress Disorder (PTSD)",
+    "title": "Post-Traumatic Stress Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12478
+  },
+  {
+    "filename": "Publications_about_Prevention-5_Action_Steps_to_Help_Someone_Having_Thoughts_of_.txt",
+    "topic": "Publications about Prevention",
+    "title": "5 Action Steps to Help Someone Having Thoughts of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 2194
+  },
+  {
+    "filename": "Publications_about_Prevention-My_Mental_Health__Do_I_Need_Help_.txt",
+    "topic": "Publications about Prevention",
+    "title": "My Mental Health: Do I Need Help?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Prevention",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 2118
+  },
+  {
+    "filename": "Publications_about_Prevention-Tips_for_Talking_With_a_Health_Care_Provider_About.txt",
+    "topic": "Publications about Prevention",
+    "title": "Tips for Talking With a Health Care Provider About Your Mental Health",
+    "source_url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 5259
+  },
+  {
+    "filename": "Publications_about_Psychosis-Understanding_Psychosis.txt",
+    "topic": "Publications about Psychosis",
+    "title": "Understanding Psychosis",
+    "source_url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10942
+  },
+  {
+    "filename": "Publications_about_Schizophren-Schizophrenia.txt",
+    "topic": "Publications about Schizophrenia",
+    "title": "Schizophrenia",
+    "source_url": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12053
+  },
+  {
+    "filename": "Publications_about_Schizophren-Understanding_Psychosis.txt",
+    "topic": "Publications about Schizophrenia",
+    "title": "Understanding Psychosis",
+    "source_url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10946
+  },
+  {
+    "filename": "Publications_about_Seasonal_Af-Seasonal_Affective_Disorder.txt",
+    "topic": "Publications about Seasonal Affective Disorder (SAD)",
+    "title": "Seasonal Affective Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder",
+    "tags": {
+      "disorders": [
+        "Eating Disorders",
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 14200
+  },
+  {
+    "filename": "Publications_about_Seasonal_Af-Seasonal_Affective_Disorder__SAD___More_Than_the_W.txt",
+    "topic": "Publications about Seasonal Affective Disorder (SAD)",
+    "title": "Seasonal Affective Disorder (SAD): More Than the Winter Blues",
+    "source_url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 2073
+  },
+  {
+    "filename": "Publications_about_Social_Anxi-Phobias_and_Phobia_Related_Disorders.txt",
+    "topic": "Publications about Social Anxiety Disorder",
+    "title": "Phobias and Phobia-Related Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Social Anxiety",
+        "Panic Disorder",
+        "Phobias"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 5759
+  },
+  {
+    "filename": "Publications_about_Social_Anxi-Social_Anxiety_Disorder__What_You_Need_to_Know.txt",
+    "topic": "Publications about Social Anxiety Disorder",
+    "title": "Social Anxiety Disorder: What You Need to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "OCD",
+        "Social Anxiety"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 13371
+  },
+  {
+    "filename": "Publications_about_Stress-I_m_So_Stressed_Out__Fact_Sheet.txt",
+    "topic": "Publications about Stress",
+    "title": "I’m So Stressed Out! Fact Sheet",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4204
+  },
+  {
+    "filename": "Publications_about_Stress-I_m_So_Stressed_Out__Infographic.txt",
+    "topic": "Publications about Stress",
+    "title": "I’m So Stressed Out! Infographic",
+    "source_url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics"
+      ]
+    },
+    "file_size_bytes": 1705
+  },
+  {
+    "filename": "Publications_about_Stress-My_Mental_Health__Do_I_Need_Help_.txt",
+    "topic": "Publications about Stress",
+    "title": "My Mental Health: Do I Need Help?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 2114
+  },
+  {
+    "filename": "Publications_about_Stress-Stand_Up_to_Stress_.txt",
+    "topic": "Publications about Stress",
+    "title": "Stand Up to Stress!",
+    "source_url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress",
+    "tags": {
+      "disorders": [
+        "Stress"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 517
+  },
+  {
+    "filename": "Publications_about_Suicide-5_Action_Steps_to_Help_Someone_Having_Thoughts_of_.txt",
+    "topic": "Publications about Suicide",
+    "title": "5 Action Steps to Help Someone Having Thoughts of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 2191
+  },
+  {
+    "filename": "Publications_about_Suicide-Frequently_Asked_Questions_About_Suicide.txt",
+    "topic": "Publications about Suicide",
+    "title": "Frequently Asked Questions About Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Borderline Personality",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 10246
+  },
+  {
+    "filename": "Publications_about_Suicide-Warning_Signs_of_Suicide.txt",
+    "topic": "Publications about Suicide",
+    "title": "Warning Signs of Suicide",
+    "source_url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective",
+        "Anxiety"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Research",
+        "Crisis Support",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1680
+  },
+  {
+    "filename": "Publications_about_Traumatic_E-Helping_Children_and_Adolescents_Cope_With_Traumat.txt",
+    "topic": "Publications about Traumatic Events",
+    "title": "Helping Children and Adolescents Cope With Traumatic Events",
+    "source_url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Fact Sheet",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention",
+        "Crisis Support",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 4927
+  },
+  {
+    "filename": "Publications_about_Traumatic_E-Post_Traumatic_Stress_Disorder.txt",
+    "topic": "Publications about Traumatic Events",
+    "title": "Post-Traumatic Stress Disorder",
+    "source_url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Panic Disorder",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children",
+        "Teens"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Research",
+        "Treatment",
+        "Self-Help"
+      ]
+    },
+    "file_size_bytes": 12457
+  },
+  {
+    "filename": "Publications_about_Treatments-Getting_Mental_Health_Support_Virtually.txt",
+    "topic": "Publications about Treatments",
+    "title": "Getting Mental Health Support Virtually",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-is-telemental-health",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Bipolar Disorder",
+        "ADHD",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention"
+      ],
+      "age_groups": [
+        "Adults",
+        "Older Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 3983
+  },
+  {
+    "filename": "Publications_about_Treatments-My_Mental_Health__Do_I_Need_Help_.txt",
+    "topic": "Publications about Treatments",
+    "title": "My Mental Health: Do I Need Help?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help",
+    "tags": {
+      "disorders": [
+        "Depression",
+        "Suicide Prevention",
+        "Stress",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Crisis Support",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 2118
+  },
+  {
+    "filename": "Publications_about_Treatments-Tips_for_Talking_With_a_Health_Care_Provider_About.txt",
+    "topic": "Publications about Treatments",
+    "title": "Tips for Talking With a Health Care Provider About Your Mental Health",
+    "source_url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 5259
+  },
+  {
+    "filename": "Publications_about_Women_s_Men-Depression_in_Women__4_Things_to_Know.txt",
+    "topic": "Publications about Women’s Mental Health",
+    "title": "Depression in Women: 4 Things to Know",
+    "source_url": "https://www.nimh.nih.gov/health/publications/depression-in-women",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 4497
+  },
+  {
+    "filename": "Publications_about_Women_s_Men-Let_s_Talk_About_Eating_Disorders.txt",
+    "topic": "Publications about Women’s Mental Health",
+    "title": "Let’s Talk About Eating Disorders",
+    "source_url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Suicide Prevention",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 1901
+  },
+  {
+    "filename": "Publications_about_Women_s_Men-Perinatal_Depression.txt",
+    "topic": "Publications about Women’s Mental Health",
+    "title": "Perinatal Depression",
+    "source_url": "https://www.nimh.nih.gov/health/publications/perinatal-depression",
+    "tags": {
+      "disorders": [
+        "Schizophrenia",
+        "Anxiety",
+        "Bipolar Disorder",
+        "PTSD",
+        "Stress",
+        "Depression",
+        "Suicide Prevention",
+        "Perinatal Depression",
+        "Seasonal Affective"
+      ],
+      "age_groups": [
+        "Older Adults",
+        "Adults",
+        "Children"
+      ],
+      "content_type": "Guide",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Diagnosis",
+        "Genetics",
+        "Prevention",
+        "Crisis Support",
+        "Brain Science",
+        "Research",
+        "Treatment"
+      ]
+    },
+    "file_size_bytes": 12916
+  },
+  {
+    "filename": "Publications_about_Women_s_Men-What_Are_Common_Types_of_Eating_Disorders_.txt",
+    "topic": "Publications about Women’s Mental Health",
+    "title": "What Are Common Types of Eating Disorders?",
+    "source_url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders",
+    "tags": {
+      "disorders": [
+        "Anxiety",
+        "Eating Disorders"
+      ],
+      "age_groups": [
+        "Adults"
+      ],
+      "content_type": "Infographic",
+      "language": "English",
+      "themes": [
+        "Symptoms",
+        "Prevention"
+      ]
+    },
+    "file_size_bytes": 1692
+  }
+]
