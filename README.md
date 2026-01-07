@@ -10,7 +10,7 @@ A RAG-powered mental health support chatbot built with **Gemini API**, **LangCha
 
 - 🤖 **RAG Pipeline** - Retrieves context from 6 specialized databases
 - 💬 **Natural Conversations** - Short, empathetic responses like a supportive friend
-- 🚨 **Crisis Detection** - Auto-detects crisis keywords and provides 988 hotline
+- 🚨 **Crisis Detection** - Auto-detects crisis keywords and provides Tele-MANAS helpline
 - 📚 **Rich Knowledge Base** - CBT, DBT, ACT therapy books + NIMH articles
 - 🎨 **Modern UI** - WhatsApp-inspired React frontend
 
@@ -108,7 +108,7 @@ support_chat/
 ## Safety Features
 
 - **Crisis Interceptor**: Detects keywords like "suicide", "kill myself" and immediately provides crisis resources
-- **988 Lifeline**: US crisis hotline prominently displayed
+- **Tele-MANAS Helpline**: Indian mental health helpline (14416) prominently displayed
 - **No Diagnosis**: Chatbot never diagnoses or prescribes
 
 ## License
