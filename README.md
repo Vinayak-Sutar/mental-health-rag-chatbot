@@ -20,10 +20,26 @@ A RAG-powered mental health support chatbot built with **Gemini API**, **LangCha
 User Query → Crisis Check → Intent Router → Multi-DB Retrieval → Gemini LLM → Response
 ```
 
-**Data Sources:**
-- 4 Therapy Books (CBT, DBT, ACT, Mind Over Mood)
-- 173 NIMH Mental Health Articles
-- 3,500+ Counseling Conversations (for response style)
+## 📚 Knowledge Base & Data Sources
+
+The chatbot relies on a curated dataset of over **7,000 embedded documents** from three primary categories:
+
+### 1. Evidence-Based Therapy Books
+Core therapeutic frameworks used to structure responses:
+- **Cognitive Behavior Therapy (CBT)**: *Basics and Beyond* by Judith S. Beck. Used for cognitive restructuring and identifying core beliefs.
+- **Dialectical Behavior Therapy (DBT)**: *Skills Training Manual* by Marsha Linehan. Used for crisis survival skills, distress tolerance, and emotion regulation.
+- **Acceptance and Commitment Therapy (ACT)**: *ACT Made Simple* by Russ Harris. Used for psychological flexibility and values-based action.
+- **Mind Over Mood**: Practical worksheets and exercises for anxiety and depression.
+
+### 2. Clinical Fact Sheets (NIMH)
+**173 articles** scraped from the **National Institute of Mental Health (NIMH)** providing authoritative, scientific definitions for:
+- Anxiety Disorders, Depression, Bipolar Disorder
+- Warning signs, symptoms, and treatments
+- Latest research and statistics
+
+### 3. Counseling Conversations
+**3,500+ dialogue pairs** of real therapy sessions used for **Few-Shot Learning**.
+- These examples teach the LLM the *tone* and *style* of a professional therapist (empathetic, non-judgmental, validation-first) without being used as medical advice.
 
 ## Quick Start
 
